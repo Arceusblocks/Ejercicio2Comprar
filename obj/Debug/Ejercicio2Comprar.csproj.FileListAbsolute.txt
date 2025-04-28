@@ -1,0 +1,7 @@
+D:\Visual studio\Ejercicio2Comprar\bin\Debug\Ejercicio2Comprar.exe.config
+D:\Visual studio\Ejercicio2Comprar\bin\Debug\Ejercicio2Comprar.exe
+D:\Visual studio\Ejercicio2Comprar\bin\Debug\Ejercicio2Comprar.pdb
+D:\Visual studio\Ejercicio2Comprar\obj\Debug\Ejercicio2Comprar.csproj.AssemblyReference.cache
+D:\Visual studio\Ejercicio2Comprar\obj\Debug\Ejercicio2Comprar.csproj.CoreCompileInputs.cache
+D:\Visual studio\Ejercicio2Comprar\obj\Debug\Ejercicio2Comprar.exe
+D:\Visual studio\Ejercicio2Comprar\obj\Debug\Ejercicio2Comprar.pdb

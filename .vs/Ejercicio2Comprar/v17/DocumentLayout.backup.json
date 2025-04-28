@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Visual studio\\Ejercicio2Comprar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|d:\\visual studio\\ejercicio2comprar\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|solutionrelative:tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|d:\\visual studio\\ejercicio2comprar\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|d:\\visual studio\\ejercicio2comprar\\itemcarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|solutionrelative:itemcarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|d:\\visual studio\\ejercicio2comprar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB3F3CE-0626-421D-96B7-309DFC5BEBEB}|Ejercicio2Comprar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Visual studio\\Ejercicio2Comprar\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Visual studio\\Ejercicio2Comprar\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T03:37:17.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Ejercicio2Comprar\\Tienda.cs",
+              "RelativeDocumentMoniker": "Tienda.cs",
+              "ToolTip": "D:\\Visual studio\\Ejercicio2Comprar\\Tienda.cs",
+              "RelativeToolTip": "Tienda.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:35:37.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemCarrito.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Ejercicio2Comprar\\ItemCarrito.cs",
+              "RelativeDocumentMoniker": "ItemCarrito.cs",
+              "ToolTip": "D:\\Visual studio\\Ejercicio2Comprar\\ItemCarrito.cs",
+              "RelativeToolTip": "ItemCarrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:32:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Ejercicio2Comprar\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "D:\\Visual studio\\Ejercicio2Comprar\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:20:45.502Z",
               "EditorCaption": ""
             }
           ]
